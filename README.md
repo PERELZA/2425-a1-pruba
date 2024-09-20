@@ -30,3 +30,5 @@ este texto esta en *cursiva* y este también en _cursiva_
 
 [Enlace a youtube](https://www.youtube.com/ "texto opcional 1")
 
+![caballos](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "titulo de la imagen")
+
