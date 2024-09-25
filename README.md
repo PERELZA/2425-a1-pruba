@@ -32,3 +32,8 @@ este texto esta en *cursiva* y este también en _cursiva_
 
 ![caballos](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "titulo de la imagen")
 
+|COLUMNA1 | COLUMNA2 | COLUMNA3 |
+|----------|:----------:|----------:|
+|Col 1 es | right-aligned|1000€|
+|Col 2 es | centered|130€|
+|zebra stripes | left-aligned|20€|
